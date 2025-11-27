@@ -10,3 +10,7 @@ print("Name:", student_name)
 print("Address:", student_address)
 print("Year:", student_year)
 print("Course:", student_course)
+
+print("Hello World")
+print("From CPE3B")
+print("Dev Sofia")
